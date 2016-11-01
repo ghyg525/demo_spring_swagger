@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.yangjie</groupId>
-	<artifactId>spring-swagger</artifactId>
+	<artifactId>springboot-swagger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>spring-swagger</name>
+	<name>springboot-swagger</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
